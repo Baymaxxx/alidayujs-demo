@@ -1,0 +1,18 @@
+{
+  "name": "alidayu-demo",
+  "version": "1.0.0",
+  "description": "alidayujs mail send demo",
+  "main": "dayu.js",
+  "scripts": {
+    "test": "node app"
+  },
+  "keywords": [
+    "alidayu"
+  ],
+  "author": "giscafer",
+  "license": "ISC",
+  "dependencies": {
+    "alidayujs": "^1.0.4",
+    "blueimp-md5": "^2.1.0"
+  }
+}
